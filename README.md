@@ -12,13 +12,19 @@
 
 # In case you were wondering, this site is:
 * Coded with Webstrom
-* Hosted on Netlify by <b> Irshad Ali <b> <br> <br>
+* Hosted on Netlify by <br> <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
+
+# Also Check this a  Progressive Web App
+![PWA] (https://res.cloudinary.com/phonerefer/image/upload/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
+
  
- # Technologies used
+# Technologies used
  
 ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs") 
+(https://res.cloudinary.com/phonerefer/image/upload/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "Javascript")
+(https://res.cloudinary.com/phonerefer/image/upload/v1573154168/irshadali.site/szlkssbzacxdjcu5peky.png "bootstrap")
   <br> <hr>
 <b>Senior Director of Design at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   
