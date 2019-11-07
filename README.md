@@ -1,2 +1,31 @@
-# portfolio
- This my portfolio website build using React Js
+# About
+<p>I am "irshad Ali" Front-End-Developer based in Hyderabad, India. with a passion for creating new ideas and beautiful functional websites.<p>
+  This code is about the website that i developed for about me. Who i'm.<b> Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.<b><p style="font-size:100px">&#128540;</p>
+  
+# I Have:  
+  
+* Proficient understanding of web markup, including HTML5, CSS3, Javascript, jQuery and React Js
+* Basic understanding about server side  
+* Good Control over Wordpress & Hosting websites
+* Good understanding of SEO principles and ensuring that application will adhere to them. 
+* Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
+
+# In case you were wondering, this site is:
+* Coded with Webstrom
+* Hosted on Netlify by <b> Irshad Ali <b> <br> [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
+ 
+ #### Technologies used
+
+| ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs") 
+  
+<b>Senior Director of Design at <a href="https://www.phonerefer.com"> PhoneRefer </b>
+  <br> <hr>
+  <h3> Take A Look At: </h3>
+ <b> <a href="https://www.irshadali.site"> Demo </b>
+  
+  
+  
+  
+  
+  
+  
