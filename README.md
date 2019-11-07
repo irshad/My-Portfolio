@@ -14,9 +14,9 @@
 * Coded with Webstrom
 * Hosted on Netlify by <b> Irshad Ali <b> <br> [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
  
- #### Technologies used
+ # Technologies used
 
-| ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs") 
+![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs") 
   
 <b>Senior Director of Design at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   <br> <hr>
