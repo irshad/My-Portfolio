@@ -22,9 +22,9 @@
  
 # Technologies used
  
-![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs")
-![ReactJs](https://res.cloudinary.com/phonerefer/image/upload/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "Javascript" width="192px")
-![ReactJs](https://res.cloudinary.com/phonerefer/image/upload/v1573154168/irshadali.site/szlkssbzacxdjcu5peky.png "bootstrap")
+| ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
+|:---:|:---:|:---:|
+| ReactJs | GatsbyJs | GraphQL |
 
   <br> <hr>
 <b>Senior Director of Design at <a href="https://www.phonerefer.com"> PhoneRefer </b>
