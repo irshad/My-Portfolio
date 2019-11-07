@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|
 | ReactJs | javaScript | Bootstrap |
 
-  <br> <hr>
+ <hr>
 <b>Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   
   <h3> Take A Look At: </h3>
