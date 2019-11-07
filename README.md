@@ -17,7 +17,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
 
 # Also Check this a  Progressive Web App
-![PWA] (https://res.cloudinary.com/phonerefer/image/upload/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
+
+![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
  
 # Technologies used
@@ -27,7 +28,7 @@
 | ReactJs | javaScript | Bootstrap |
 
   <br> <hr>
-<b>Senior Director of Design at <a href="https://www.phonerefer.com"> PhoneRefer </b>
+<b>Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   
   <h3> Take A Look At: </h3>
  <b> <a href="https://www.irshadali.site"> Demo </b>
