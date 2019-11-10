@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c86bf7d.chunk.css",
+    "main.css": "/static/css/main.f6cd4751.chunk.css",
     "main.js": "/static/js/main.e507fb2c.chunk.js",
     "main.js.map": "/static/js/main.e507fb2c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d63242a5.js",
@@ -8,9 +8,9 @@
     "static/js/2.d7373fbe.chunk.js": "/static/js/2.d7373fbe.chunk.js",
     "static/js/2.d7373fbe.chunk.js.map": "/static/js/2.d7373fbe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7359224981bfacb296196ce6212f92af.js": "/precache-manifest.7359224981bfacb296196ce6212f92af.js",
+    "precache-manifest.79dfe5aede5e9cf14ddbd714b4037be9.js": "/precache-manifest.79dfe5aede5e9cf14ddbd714b4037be9.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4c86bf7d.chunk.css.map": "/static/css/main.4c86bf7d.chunk.css.map",
+    "static/css/main.f6cd4751.chunk.css.map": "/static/css/main.f6cd4751.chunk.css.map",
     "static/media/App.css": "/static/media/parsegroteskmono_thin.52caea8c.otf"
   }
 }

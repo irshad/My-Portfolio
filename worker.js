@@ -33,7 +33,7 @@ self.addEventListener('fetch', event => {
 
 // Update a service worker
 self.addEventListener('activate', event => {
-    var cacheWhitelist = ['pwa-task-manager'];
+    const cacheWhitelist = ['pwa-task-manager'];
     event.waitUntil(
         caches.keys().then(cacheNames => {
             return Promise.all(
