@@ -12,7 +12,7 @@
 
 # In case you were wondering, this site is:
 * Coded with Webstrom
-* Hosted on Netlify by <br> <br>
+* Hosted on Netlify <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
 
@@ -28,7 +28,7 @@
 | ReactJs | javaScript | Bootstrap |
 
  <hr>
-<b>Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
+<b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   
   <h3> Take A Look At: </h3>
  <b> <a href="https://www.irshadali.site"> Demo </b>
