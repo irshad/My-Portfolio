@@ -8,7 +8,9 @@ This is the manifest for Developer for Life.
 
 `{
     "name": "Developer for Life",
+    
     "short_name": "dev4life",
+    
     "icons": [
         {
             "src": "/appicons/favicon-128.png",
