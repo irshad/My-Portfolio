@@ -23,6 +23,7 @@
 `npm-run-build`
 
 <br>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
 
 # Also Check this a  Progressive Web App
