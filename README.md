@@ -13,7 +13,7 @@ This code is about the website that i developed for about me. Who i'm.<b> Genius
 * Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
 
 # In case you were wondering, this site is:
-* Coded with Webstrom
+* Coded in Webstrom
 * Hosted on Netlify
 
 #  To Run First
