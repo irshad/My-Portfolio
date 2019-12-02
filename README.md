@@ -41,9 +41,7 @@ This code is about the website that i developed for about me. Who i'm.<b> Genius
 
 ## Contributing
 
-Development happens in the open on GitHub. We're thankful to the community for
-contributing any improvements.
-
+Development happens in the open on GitHub.
 <table>
   <tbody>
     <tr>
