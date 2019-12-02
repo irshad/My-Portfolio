@@ -1,7 +1,7 @@
 # About
 <p>I am "irshad Ali" Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites i am hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator<p>
   
-This code is about the website that i developed for about me. Who i'm.<b> Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.<b><p style="font-size:100px">&#128540;</p>
+This code is about the website that i developed for about me. Who i'm.<b> Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.<b>
  
   
 # I Have:  
