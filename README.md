@@ -58,9 +58,6 @@ Development happens in the open on GitHub.
  <hr>
 This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer
   
-  <h3> Take A Look At: </h3>
- <a href="https://www.irshadali.site">Demo
-  
   ## License & Copyright
   
  © K IRSHAD ALI, PhoneRefer Media Inc <br> 
