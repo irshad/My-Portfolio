@@ -56,15 +56,15 @@ Development happens in the open on GitHub.
 </table>
 
  <hr>
-This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> **PhoneRefer**
+This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer
   
   <h3> Take A Look At: </h3>
- <a href="https://www.irshadali.site">**Demo**
+ <a href="https://www.irshadali.site">Demo
   
   ## License & Copyright
   
-#### © K IRSHAD ALI, PhoneRefer Media Inc <br> 
-#### Licensed under the  [MIT License](LICENSE) 
+© K IRSHAD ALI, PhoneRefer Media Inc <br> 
+Licensed under the  [MIT License](LICENSE) 
  
 
  ![License](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_150/v1575520731/ruff/lgiktt3ezby86zk0413u.png "License")
