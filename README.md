@@ -1,8 +1,7 @@
 # About
-<p>I am "irshad Ali" Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites i am hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator<p>
+I am "irshad Ali" Front-End-Developer based in Hyderabad, India. With a passion for creating new ideas and beautiful functional websites i am hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator
   
-This code is about the website that i developed for about me. Who i'm.<b> Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.<b>
- 
+This code is about the website that i developed for about me. Who i'm.**Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.**
   
 # I Have:  
   
@@ -57,10 +56,10 @@ Development happens in the open on GitHub.
 </table>
 
  <hr>
-<b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
+This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> **PhoneRefer**
   
   <h3> Take A Look At: </h3>
- <b> <a href="https://www.irshadali.site">Demo </b>
+ <a href="https://www.irshadali.site">**Demo**
   
   ## License & Copyright
   
