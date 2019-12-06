@@ -62,6 +62,15 @@ Development happens in the open on GitHub.
   <h3> Take A Look At: </h3>
  <b> <a href="https://www.irshadali.site">Demo </b>
   
+  ## License & Copyright
+  
+#### © K IRSHAD ALI, PhoneRefer Media Inc <br> 
+#### Licensed under the  [MIT License](LICENSE) 
+ 
+
+ ![License](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_150/v1575520731/ruff/lgiktt3ezby86zk0413u.png "License")
+
+  
   
   
   
