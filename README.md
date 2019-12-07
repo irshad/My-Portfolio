@@ -32,7 +32,7 @@ This code is about the website that i developed for about me. Who i'm.**Genius B
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
 ### For More PWA Information Visit
-#### https://dev.to/phonerefer
+https://dev.to/phonerefer
  
 # Technologies i used to make this site
  
