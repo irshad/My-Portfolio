@@ -55,7 +55,6 @@ Development happens in the open on GitHub.
   </tbody>
 </table>
 
- <hr>
 This Is "Irshad Ali" Senior Director of Design & Development at PhoneRefer
   
   
