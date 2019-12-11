@@ -19,7 +19,7 @@ This code is about the website that i developed for about me. Who i'm.**Genius B
 
 `npm install`
 
-# And Then
+## And Then
 
 `npm start`
 
@@ -56,8 +56,7 @@ Development happens in the open on GitHub.
 </table>
 
 This Is "Irshad Ali" Senior Director of Design & Development at PhoneRefer
-  
-<hr>  
+
 ## License & Copyright
   
  © K IRSHAD ALI, PhoneRefer Media Inc <br> 
