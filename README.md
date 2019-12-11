@@ -3,7 +3,7 @@ I am "irshad Ali" Front-End-Developer based in Hyderabad, India. With a passion 
   
 This code is about the website that i developed for about me. Who i'm.**Genius Billionaire Playboy Philanthropist : Not Me That was "TONY STARK" inspried by him to make things better.**
   
-# I Have:  
+## I Have:  
   
 * Proficient understanding of web markup, including HTML5, CSS3, Javascript, jQuery and React Js
 * Basic understanding about server side  
@@ -11,11 +11,11 @@ This code is about the website that i developed for about me. Who i'm.**Genius B
 * Good understanding of SEO principles and ensuring that application will adhere to them. 
 * Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
 
-# In case you were wondering, this site is:
+## In case you were wondering, this site is:
 * Coded in Webstrom
 * Hosted on Netlify
 
-#  To Run First
+##  To Run First
 
 `npm install`
 
@@ -27,14 +27,14 @@ This code is about the website that i developed for about me. Who i'm.**Genius B
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ac4bbd0-d62b-409d-9f76-ee3cb01d775c/deploy-status)](https://app.netlify.com/sites/irshadali/deploys)
 
-# Also Check this a  Progressive Web App
+## Also Check this a  Progressive Web App
 
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
 ### For More PWA Information Visit
 https://dev.to/phonerefer
  
-# Technologies i used to make this site
+## Technologies i used to make this site
  
 | ![ReactJs](https://res.cloudinary.com/prvnbist/image/upload/c_scale,h_80/v1564054850/React.js_logo-512_bvpygm.png "ReactJs")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
 |:---:|:---:|:---:|
@@ -57,7 +57,7 @@ Development happens in the open on GitHub.
 
 This Is "Irshad Ali" Senior Director of Design & Development at PhoneRefer
   
-  
+<hr>  
   ## License & Copyright
   
  © K IRSHAD ALI, PhoneRefer Media Inc <br> 
