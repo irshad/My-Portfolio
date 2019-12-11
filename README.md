@@ -21,7 +21,7 @@ This code is about the website that i developed for about me. Who i'm.**Genius B
 
 # And Then
 
-`npm-run-build`
+`npm start`
 
 <br>
 
